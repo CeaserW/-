@@ -1,0 +1,5 @@
+<view class='background'>  
+<button class='camera_button' bindtap='pushCameraView'> 
+拍摄图片
+</button>
+ </view> 

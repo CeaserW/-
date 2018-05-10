@@ -1,0 +1,17 @@
+.camera_button{
+  /* display: flex;
+  flex-direction: row;
+  
+  align-items: center; */
+  background-color: red;
+}
+.background{
+  display: flex;
+  flex-direction:column;
+  background-color: yellow;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  align-items:center ;  
+  justify-content: center;
+}
